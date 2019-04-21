@@ -13,6 +13,8 @@ Main purpose is to provide simple examples for git training
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Reuquests for review
+
 ## Copyright
 
 2019 Git Training
