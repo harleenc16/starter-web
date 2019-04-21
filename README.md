@@ -12,3 +12,7 @@ Main purpose is to provide simple examples for git training
 ##Deployment
 
 ## How to Contribute
+
+## Copyright
+
+2019 Git Training
