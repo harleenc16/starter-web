@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <H> -- <S> -- <T>
 
 # THANKS
 
-    <name>
+    Thanks stash example
 
 # TECHNOLOGY COLOPHON
 
